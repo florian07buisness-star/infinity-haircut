@@ -10,7 +10,7 @@ import MagneticButton from '@/components/MagneticButton'
 import BeforeAfterSlider from '@/components/BeforeAfterSlider'
 import ParallaxImage from '@/components/ParallaxImage'
 import Lightbox from '@/components/Lightbox'
-import ScrollScissors from '@/components/ScrollScissors'
+
 
 const services = [
   { icon: Scissors, name: 'Haarschnitt & Styling', desc: 'Präzisionsschnitt, individuell auf dich abgestimmt.', price: 'ab €25' },
