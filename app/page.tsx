@@ -29,12 +29,12 @@ const reviews = [
 ]
 
 const galleryImages = [
-  'https://images.unsplash.com/photo-1585747860019-8e3e9b1c6c93?w=600',
-  'https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=600',
-  'https://images.unsplash.com/photo-1521490683712-35a1cb235d1c?w=600',
-  'https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=600',
-  'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=600',
-  'https://images.unsplash.com/photo-1621605815971-fbc98d665033?w=600',
+  'https://images.unsplash.com/photo-1605497788044-5a32c7078486?w=600&q=80',
+  'https://images.unsplash.com/photo-1599351431202-1e0f0137899a?w=600&q=80',
+  'https://images.unsplash.com/photo-1578390432942-d323db577792?w=600&q=80',
+  'https://images.unsplash.com/photo-1622286342621-4bd786c2447c?w=600&q=80',
+  'https://images.unsplash.com/photo-1629189784191-9afdcbcb0398?w=600&q=80',
+  'https://images.unsplash.com/photo-1589985494639-69e60c82cab2?w=600&q=80',
 ]
 
 function FadeInSection({ children, className = '', delay = 0 }: { children: React.ReactNode; className?: string; delay?: number }) {
